@@ -1,0 +1,9 @@
+<templateSet group="other">
+  <template name="reqt" value=" /**&#10; *  $descript$&#10; * @param forward&#10; * @param request&#10; * @param response&#10; * @throws IOException&#10; * @throws ORMException&#10; * @throws SQLException&#10; */&#10;public void $className$(ActionForward forward, HttpServletRequest request, HttpServletResponse response) throws IOException {&#10;    UserSession session = (UserSession) RequestUtil.getSessionUser(request);&#10;    HashMap&lt;String, Object&gt; map = new HashMap&lt;&gt;();&#10;    HashMap&lt;String, Object&gt; head = new HashMap&lt;&gt;();&#10;    Gson gson = new Gson();&#10;    if (session == null) {&#10;        head.put(&quot;code&quot;,-1);&#10;        head.put(&quot;msg&quot;, &quot;session过期，请重新登陆&quot;);&#10;        log.error(&quot;session过期，请重新登陆&quot;);&#10;        PrintWriter writer = response.getWriter();&#10;        writer.write(gson.toJson(map));&#10;        writer.flush();&#10;        writer.close();&#10;        return;&#10;    }&#10;    try {&#10;       &#10;            head.put(&quot;code&quot;,1);&#10;            head.put(&quot;msg&quot;,&quot;成功&quot;);&#10;    } catch (Exception e) {&#10;        log.error(&quot;user[&quot; + session.getNick() + &quot;]，$descript$异常：&quot; + e.toString());&#10;        head.put(&quot;code&quot;,-1);&#10;        head.put(&quot;msg&quot;,&quot;$descript$异常&quot; + e.toString());&#10;        e.printStackTrace();&#10;    }&#10;    map.put(&quot;head&quot;, head);&#10;    PrintWriter out = response.getWriter();&#10;    out.print(gson.toJson(map));&#10;    out.flush();&#10;    out.close();&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="descript" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
