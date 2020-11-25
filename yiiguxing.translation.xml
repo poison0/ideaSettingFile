@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Indicate if failure to find the a {@link #value() property resource} should be * ignored. * &lt;p&gt;{@code true} is appropriate if the properties file is completely optional. * Default is {@code false}." />
+      <item value="* Flag to indicate that when binding to this object unknown fields should be ignored. * An unknown field could be a sign of a mistake in the Properties." />
+      <item value="* Flag to indicate that when binding to this object invalid fields should be ignored. * Invalid means invalid according to the binder that is used, and usually this means * fields of the wrong type (or that cannot be coerced into the correct type)." />
       <item value="Creates a criterion using a {@literal $regex} operator." />
       <item value="secondary" />
       <item value="primary" />
@@ -13,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
