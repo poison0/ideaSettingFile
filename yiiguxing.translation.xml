@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inspection" />
       <item value="Interface not allowed for non-abstract beans" />
       <item value="* The prefix of the properties that are valid to bind to this object. Synonym for * {@link #value()}. A valid prefix is defined by one or more words separated with" />
       <item value="* Indicate if failure to find the a {@link #value() property resource} should be * ignored. * &lt;p&gt;{@code true} is appropriate if the properties file is completely optional. * Default is {@code false}." />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
