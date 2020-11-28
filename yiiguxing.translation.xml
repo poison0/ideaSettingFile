@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add some framework support, such as mybatis etc. depend on intellij'spring plugin, not support intellij community、Android Studio version so far" />
       <item value="Inspection" />
       <item value="Interface not allowed for non-abstract beans" />
       <item value="* The prefix of the properties that are valid to bind to this object. Synonym for * {@link #value()}. A valid prefix is defined by one or more words separated with" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
