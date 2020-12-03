@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress." />
+      <item value="while constructing DataFlavor for" />
+      <item value="Write access is allowed inside write-action only" />
+      <item value="Write access is allowed inside write-action onl" />
       <item value="The parameter type of the parameter." />
       <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
       <item value="Insufficient isv permissions" />
@@ -28,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
