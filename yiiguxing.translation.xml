@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status" />
+      <item value="* Construct a new Stream by appending a stateless intermediate * operation to an existing stream." />
+      <item value="* Returns an {@code IntStream} consisting of the results of applying the * given function to the elements of this stream. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt; * intermediate operation&lt;/a&gt;. * * @param mapper a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt;non-interfering&lt;/a&gt;, * &lt;a href=&quot;package-summary.html#Statelessness&quot;&gt;stateless&lt;/a&gt; * function to apply to each element * @return the new stream" />
+      <item value="map To Int" />
       <item value="Dangling" />
       <item value="generate List Set Map return value ListImplement" />
       <item value="generate converter when cursor in method" />
@@ -39,11 +43,17 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
   </component>
 </application>
