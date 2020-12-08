@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Degree" />
+      <item value="Syn Degree" />
       <item value="status" />
       <item value="* Construct a new Stream by appending a stateless intermediate * operation to an existing stream." />
       <item value="* Returns an {@code IntStream} consisting of the results of applying the * given function to the elements of this stream. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt; * intermediate operation&lt;/a&gt;. * * @param mapper a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt;non-interfering&lt;/a&gt;, * &lt;a href=&quot;package-summary.html#Statelessness&quot;&gt;stateless&lt;/a&gt; * function to apply to each element * @return the new stream" />
