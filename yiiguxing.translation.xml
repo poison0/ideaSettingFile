@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Note that backslashes ({@code \}) and dollar signs ({@code $}) in the * replacement string may cause the results to be different than if it were * being treated as a literal replacement string; see" />
       <item value="Degree" />
       <item value="Syn Degree" />
       <item value="status" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
