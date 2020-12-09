@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unable" />
       <item value="Property" />
       <item value="region" />
       <item value="This code does not execute properly. Try to figure out why." />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
