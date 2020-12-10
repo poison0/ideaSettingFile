@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Balance" />
       <item value="BATCH" />
       <item value="unable" />
       <item value="Property" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="GERMAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
