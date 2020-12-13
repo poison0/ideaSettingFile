@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="what i can not create , i do not understand" />
       <item value="Replist" />
       <item value="unindent" />
       <item value="reference" />
@@ -50,12 +51,11 @@
       <item value="Inspection" />
       <item value="Interface not allowed for non-abstract beans" />
       <item value="* The prefix of the properties that are valid to bind to this object. Synonym for * {@link #value()}. A valid prefix is defined by one or more words separated with" />
-      <item value="* Indicate if failure to find the a {@link #value() property resource} should be * ignored. * &lt;p&gt;{@code true} is appropriate if the properties file is completely optional. * Default is {@code false}." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
