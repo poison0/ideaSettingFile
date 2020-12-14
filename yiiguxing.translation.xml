@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can't initialize javac processor due to (most likely) a class loader problem" />
+      <item value="fomeiherz" />
       <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="what i can not create , i do not understand" />
       <item value="Replist" />
@@ -49,14 +51,12 @@
       <item value="smells" />
       <item value="upper Limit" />
       <item value="Add some framework support, such as mybatis etc. depend on intellij'spring plugin, not support intellij community、Android Studio version so far" />
-      <item value="Inspection" />
-      <item value="Interface not allowed for non-abstract beans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
-        <entry key="GERMAN" value="1" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
