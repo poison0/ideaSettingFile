@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="what i can not create , i do not understand" />
       <item value="Replist" />
       <item value="unindent" />
@@ -50,12 +51,11 @@
       <item value="Add some framework support, such as mybatis etc. depend on intellij'spring plugin, not support intellij community、Android Studio version so far" />
       <item value="Inspection" />
       <item value="Interface not allowed for non-abstract beans" />
-      <item value="* The prefix of the properties that are valid to bind to this object. Synonym for * {@link #value()}. A valid prefix is defined by one or more words separated with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
