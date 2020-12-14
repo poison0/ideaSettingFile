@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compiled results as a Map" />
+      <item value="Compile a Java source file in memory" />
+      <item value="modifiers" />
+      <item value="Class com.ruiyun.trade.ordercenter.util.StringCompiler can not access a member of class com.ruiyun.trade.web.trademanage.service.impl.SwitchStateService1Impl with modifiers &quot;&quot;" />
       <item value="Can't initialize javac processor due to (most likely) a class loader problem" />
       <item value="fomeiherz" />
       <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
@@ -47,15 +51,11 @@
       <item value="Insufficient isv permissions" />
       <item value="Insufficient" />
       <item value="This plugin is used for code style checking. It could report code smells in your source files. If you want to add more customization please contact me, or checkout the CodeStyleChecker project on github. Note: this plugin scans the file content based on the text, but no any AST technologies are used. If some issues were reported inaccurately, please ignore it or leave a comment. Thanks." />
-      <item value="customization" />
-      <item value="smells" />
-      <item value="upper Limit" />
-      <item value="Add some framework support, such as mybatis etc. depend on intellij'spring plugin, not support intellij community、Android Studio version so far" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
