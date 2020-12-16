@@ -71,5 +71,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
