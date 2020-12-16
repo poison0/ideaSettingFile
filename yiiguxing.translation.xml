@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected" />
+      <item value="actually" />
+      <item value="tbl Trade Wechat Task Mapper" />
       <item value="Constant defining a value for no default - as a replacement for" />
       <item value="The default value to use as a fallback when the request parameter is * not provided or has an empty value." />
       <item value="Compiled results as a Map" />
@@ -48,19 +51,20 @@
       <item value="while constructing DataFlavor for" />
       <item value="Write access is allowed inside write-action only" />
       <item value="Write access is allowed inside write-action onl" />
-      <item value="The parameter type of the parameter." />
-      <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
-      <item value="Insufficient isv permissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1608082869423" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
