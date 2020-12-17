@@ -19,4 +19,13 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="/contr" value="/**&#10; * $s1$&#10; * @author 牛顺顺&#10; * @date $date$&#10; */&#10;@ApiOperation(value = &quot;$s1$&quot;,notes = &quot;$s1$&quot;)&#10;@RequestMapping(value = &quot;/$s2$.do&quot;,method = {RequestMethod.POST})&#10;public $s2$VO $s2$(@RequestBody $s2$Query query,@SessionAttribute TaobaoLoginInfo loginInfo) throws BizException {&#10;    return $s3$.$s2$(loginInfo,query);&#10;}" description="controller template" toReformat="false" toShortenFQNames="true">
+    <variable name="s1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="s2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="s3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
