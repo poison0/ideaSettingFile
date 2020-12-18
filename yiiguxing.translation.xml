@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The annotated element must not be {@code null} and must contain at least one" />
+      <item value="The annotated element must be true." />
+      <item value="The annotated element must be a number whose value must be lower or equal to the specified maximum." />
+      <item value="The annotated element must be a number whose value must be higher or equal to the specified minimum." />
+      <item value="maximum number of fractional digits accepted for this number" />
+      <item value="The annotated element must be a number within accepted range" />
+      <item value="maximum number of integral digits accepted for this number" />
+      <item value="The annotated element must be a number within accepted range." />
+      <item value="The annotated element must be an instant, date or time in the present or in the future." />
+      <item value="negative" />
+      <item value="The annotated element must be a strictly negative number" />
+      <item value="The annotated element must be an instant, date or time in the past." />
+      <item value="The annotated element must be a positive number or 0. &lt;p&gt; Supported types are: &lt;ul&gt; &lt;li&gt;{@code BigDecimal}&lt;li&gt; &lt;li&gt;{@code BigInteger}&lt;li&gt; &lt;li&gt;{@code byte}, {@code short}, {@code int}, {@code long}, {@code float}, {@code double} and their respective wrappers&lt;li&gt; &lt;ul&gt; &lt;p&gt; {@code null} elements are considered valid. @author Gunnar Morling @since 2.0" />
+      <item value="The annotated {@code CharSequence} must match the specified regular expression. The regular expression follows the Java regular expression conventions" />
+      <item value="The annotated element must be a strictly positive number (i.e. 0 is considered as an invalid value)." />
       <item value="切换" />
       <item value="dynamic" />
       <item value="Notice" />
@@ -36,26 +51,11 @@
       <item value="BATCH" />
       <item value="Balance" />
       <item value="unable" />
-      <item value="Property" />
-      <item value="region" />
-      <item value="This code does not execute properly. Try to figure out why." />
-      <item value="* Note that backslashes ({@code \}) and dollar signs ({@code $}) in the * replacement string may cause the results to be different than if it were * being treated as a literal replacement string; see" />
-      <item value="Degree" />
-      <item value="Syn Degree" />
-      <item value="status" />
-      <item value="* Construct a new Stream by appending a stateless intermediate * operation to an existing stream." />
-      <item value="* Returns an {@code IntStream} consisting of the results of applying the * given function to the elements of this stream. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt; * intermediate operation&lt;/a&gt;. * * @param mapper a &lt;a href=&quot;package-summary.html#NonInterference&quot;&gt;non-interfering&lt;/a&gt;, * &lt;a href=&quot;package-summary.html#Statelessness&quot;&gt;stateless&lt;/a&gt; * function to apply to each element * @return the new stream" />
-      <item value="map To Int" />
-      <item value="Dangling" />
-      <item value="generate List Set Map return value ListImplement" />
-      <item value="generate converter when cursor in method" />
-      <item value="generate setter default values when cursor on local variable setter generate converter when cursor in method methodConveter generate List Set Map return value ListImplement Installation" />
-      <item value="bulid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
