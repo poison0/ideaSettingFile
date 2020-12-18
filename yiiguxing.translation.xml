@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Payloads are typically used to carry on metadata information consumed by a validation client." />
+      <item value="Payload type that can be attached to a given constraint declaration." />
+      <item value="Payload" />
+      <item value="The annotated element must be a number within accepted range" />
+      <item value="The annotated element must be an instant, date or time in the past or in the present." />
+      <item value="The annotated element size must be between the specified boundaries" />
+      <item value="The annotated element must be a number whose value must be lower or" />
+      <item value="The annotated element must be a positive number or 0." />
       <item value="positive" />
       <item value="maximum number of integral digits accepted for this number" />
       <item value="The annotated element must be a number within accepted range." />
@@ -9,7 +17,6 @@
       <item value="The annotated element must be a number whose value must be lower or equal to the specified maximum." />
       <item value="The annotated element must be a number whose value must be higher or equal to the specified minimum." />
       <item value="maximum number of fractional digits accepted for this number" />
-      <item value="The annotated element must be a number within accepted range" />
       <item value="The annotated element must be an instant, date or time in the present or in the future." />
       <item value="negative" />
       <item value="The annotated element must be a strictly negative number" />
@@ -44,18 +51,11 @@
       <item value="separators" />
       <item value="associate" />
       <item value="properties" />
-      <item value="recent" />
-      <item value="Code insight and background tasks are disabled" />
-      <item value="Tbl Sms Send Record" />
-      <item value="消耗完" />
-      <item value="Provider" />
-      <item value="BATCH" />
-      <item value="Balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
