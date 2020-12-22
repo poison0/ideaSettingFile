@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: com.fasterxml.jackson.databind.exc.InvalidTypeIdException: Missing type id when trying to resolve subtype of [simple type, class java.lang.Object]: missing type id property '@class' at [Source: (io.netty.buffer.ByteBufInputStream); line: 1, column: 853]" />
       <item value="distinct" />
       <item value="Returns a stream consisting of the distinct elements" />
       <item value="Returns a stream consisting of the distinct element" />
@@ -50,12 +51,11 @@
       <item value="fomeiherz" />
       <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="what i can not create , i do not understand" />
-      <item value="Replist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
