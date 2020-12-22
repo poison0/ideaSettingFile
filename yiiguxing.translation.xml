@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
+      <item value="Returns a stream consisting of the distinct elements" />
+      <item value="Returns a stream consisting of the distinct element" />
       <item value="Execute the annotated method with a fixed period in milliseconds between invocations." />
       <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
       <item value="A time zone for which the cron expression will be resolved. By default, this attribute is the empty String (i.e. the server's local time zone will be used)." />
@@ -48,14 +51,11 @@
       <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="what i can not create , i do not understand" />
       <item value="Replist" />
-      <item value="unindent" />
-      <item value="reference" />
-      <item value="backspace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
