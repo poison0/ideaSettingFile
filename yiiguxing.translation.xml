@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Around" />
       <item value="GOODS" />
       <item value="GOOD" />
       <item value="导出" />
@@ -50,12 +51,11 @@
       <item value="The default value to use as a fallback when the request parameter is * not provided or has an empty value." />
       <item value="Compiled results as a Map" />
       <item value="Compile a Java source file in memory" />
-      <item value="modifiers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
