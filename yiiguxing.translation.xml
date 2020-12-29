@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Picking Goods" />
+      <item value="Pick" />
       <item value="Commodity" />
       <item value="Inspection" />
       <item value="Around" />
@@ -49,13 +51,11 @@
       <item value="expected" />
       <item value="actually" />
       <item value="tbl Trade Wechat Task Mapper" />
-      <item value="Constant defining a value for no default - as a replacement for" />
-      <item value="The default value to use as a fallback when the request parameter is * not provided or has an empty value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
