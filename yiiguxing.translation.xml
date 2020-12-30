@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected at least 1 bean which qualifies as autowire candidate" />
+      <item value="qualifying" />
       <item value="primary" />
       <item value="Wired" />
       <item value="Roughness" />
@@ -49,13 +51,11 @@
       <item value="The annotated element must be a strictly negative number" />
       <item value="The annotated element must be an instant, date or time in the past." />
       <item value="The annotated element must be a positive number or 0. &lt;p&gt; Supported types are: &lt;ul&gt; &lt;li&gt;{@code BigDecimal}&lt;li&gt; &lt;li&gt;{@code BigInteger}&lt;li&gt; &lt;li&gt;{@code byte}, {@code short}, {@code int}, {@code long}, {@code float}, {@code double} and their respective wrappers&lt;li&gt; &lt;ul&gt; &lt;p&gt; {@code null} elements are considered valid. @author Gunnar Morling @since 2.0" />
-      <item value="The annotated {@code CharSequence} must match the specified regular expression. The regular expression follows the Java regular expression conventions" />
-      <item value="The annotated element must be a strictly positive number (i.e. 0 is considered as an invalid value)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
