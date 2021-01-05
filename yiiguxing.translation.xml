@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="订购" />
+      <item value="actual" />
+      <item value="sale" />
+      <item value="内购" />
+      <item value="购买" />
       <item value="Returns an array containing the elements of this stream, using the provided {@code generator} function to allocate the returned array, as well as any additional arrays that might be required for a partitioned execution or for resizing. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;terminal operation&lt;a&gt;. @apiNote The generator function takes an integer, which is the size of the desired array, and produces an array of the desired size. This can be concisely expressed with an array constructor reference:" />
       <item value="Performs an action for each element of this stream, in the encounter order of the stream if the stream has a defined encounter order. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;terminal operation&lt;a&gt;. &lt;p&gt;This operation processes the elements one at a time, in encounter order if one exists. Performing the action for one element &lt;a href=&quot;..concurrentpackage-summary.htmlMemoryVisibility&quot;&gt;&lt;i&gt;happens-before&lt;i&gt;&lt;a&gt; performing the action for subsequent elements, but for any given element, the action may be performed in whatever thread the library chooses." />
       <item value="dungeonrush" />
@@ -46,16 +51,11 @@
       <item value="maximum number of integral digits accepted for this number" />
       <item value="The annotated element must be a number within accepted range." />
       <item value="The annotated element must not be {@code null} and must contain at least one" />
-      <item value="The annotated element must be true." />
-      <item value="The annotated element must be a number whose value must be lower or equal to the specified maximum." />
-      <item value="The annotated element must be a number whose value must be higher or equal to the specified minimum." />
-      <item value="maximum number of fractional digits accepted for this number" />
-      <item value="The annotated element must be an instant, date or time in the present or in the future." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="137" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
