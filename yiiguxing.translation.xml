@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean already defined with the same name" />
       <item value="british columbia" />
       <item value="Network is unreachable" />
       <item value="no further information" />
@@ -50,12 +51,11 @@
       <item value="Payload" />
       <item value="The annotated element must be a number within accepted range" />
       <item value="The annotated element must be an instant, date or time in the past or in the present." />
-      <item value="The annotated element size must be between the specified boundaries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
