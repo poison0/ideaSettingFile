@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obj the object whose field should be modified" />
+      <item value="value the new value for the field of {@code obj}" />
       <item value="限制" />
       <item value="循环" />
       <item value="PDF,OneNote for Windows 10,OneNote (Desktop),Microsoft XPS Document Writer,Microsoft Print to PDF,Fax; _ati=6143070818] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level." />
@@ -49,13 +51,11 @@
       <item value="Returns a stream consisting of the distinct element" />
       <item value="Execute the annotated method with a fixed period in milliseconds between invocations." />
       <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
-      <item value="A time zone for which the cron expression will be resolved. By default, this attribute is the empty String (i.e. the server's local time zone will be used)." />
-      <item value="判断" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609813996538" />
+    <option name="lastTrimTime" value="1610326484649" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
