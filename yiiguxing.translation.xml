@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enabled" />
       <item value="The server encountered an internal error or misconfiguration and was unable to complete your request. Sorry for the inconvenience" />
       <item value="Standard HTTP header names." />
       <item value="Creates a new instance" />
@@ -50,12 +51,11 @@
       <item value="GOOD" />
       <item value="导出" />
       <item value="前缀" />
-      <item value="Specifies a reference to the corresponding type definition, overrides any other metadata specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
