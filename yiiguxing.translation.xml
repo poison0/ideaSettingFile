@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constant expression required" />
       <item value="Creates a new instance with the default decoder options" />
       <item value="enabled" />
       <item value="The server encountered an internal error or misconfiguration and was unable to complete your request. Sorry for the inconvenience" />
@@ -50,12 +51,11 @@
       <item value="Around" />
       <item value="GOODS" />
       <item value="GOOD" />
-      <item value="导出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
