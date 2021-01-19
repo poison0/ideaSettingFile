@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is very likely to create a memory leak. Stack trace of thread" />
+      <item value="里面" />
       <item value="加密" />
       <item value="Proceed with the next advice or target method invocation" />
       <item value="encryption" />
@@ -49,13 +51,11 @@
       <item value="sale" />
       <item value="内购" />
       <item value="购买" />
-      <item value="Returns an array containing the elements of this stream, using the provided {@code generator} function to allocate the returned array, as well as any additional arrays that might be required for a partitioned execution or for resizing. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;terminal operation&lt;a&gt;. @apiNote The generator function takes an integer, which is the size of the desired array, and produces an array of the desired size. This can be concisely expressed with an array constructor reference:" />
-      <item value="Performs an action for each element of this stream, in the encounter order of the stream if the stream has a defined encounter order. &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;terminal operation&lt;a&gt;. &lt;p&gt;This operation processes the elements one at a time, in encounter order if one exists. Performing the action for one element &lt;a href=&quot;..concurrentpackage-summary.htmlMemoryVisibility&quot;&gt;&lt;i&gt;happens-before&lt;i&gt;&lt;a&gt; performing the action for subsequent elements, but for any given element, the action may be performed in whatever thread the library chooses." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
