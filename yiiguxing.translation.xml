@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decrypt" />
       <item value="modifiers" />
       <item value="This is very likely to create a memory leak. Stack trace of thread" />
       <item value="里面" />
@@ -50,12 +51,11 @@
       <item value="订购" />
       <item value="actual" />
       <item value="sale" />
-      <item value="内购" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
