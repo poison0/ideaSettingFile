@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decryption" />
       <item value="encrype" />
       <item value="Input length must be multiple of 16 when decrypting with padded cipher" />
       <item value="decrypt" />
@@ -50,12 +51,11 @@
       <item value="REMIND" />
       <item value="enw" />
       <item value="This patron isn’t supporting any creators at the moment." />
-      <item value="订购" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
