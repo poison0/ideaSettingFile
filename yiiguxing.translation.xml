@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Key Generator" />
       <item value="Inside" />
       <item value="encrypt" />
       <item value="encrype" />
@@ -50,12 +51,11 @@
       <item value="Network is unreachable" />
       <item value="no further information" />
       <item value="REMIND" />
-      <item value="enw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
