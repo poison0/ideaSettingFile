@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="四天" />
+      <item value="将要" />
+      <item value="过期" />
       <item value="positive" />
       <item value="Identify" />
       <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
@@ -48,14 +51,11 @@
       <item value="循环" />
       <item value="PDF,OneNote for Windows 10,OneNote (Desktop),Microsoft XPS Document Writer,Microsoft Print to PDF,Fax; _ati=6143070818] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level." />
       <item value="A cookie header was received" />
-      <item value="Required request body is missing" />
-      <item value="Bean already defined with the same name" />
-      <item value="british columbia" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="197" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
