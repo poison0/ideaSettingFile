@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether body content is required. &lt;p&gt;Default is {@code true}, leading to an exception thrown in case there is no body content. Switch this to {@code false} if you prefer {@code null} to be passed when the body content is {@code null}." />
       <item value="factor" />
       <item value="exactly" />
       <item value="unavailable" />
@@ -50,12 +51,11 @@
       <item value="Material" />
       <item value="Decrypt" />
       <item value="status" />
-      <item value="obj the object whose field should be modified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
