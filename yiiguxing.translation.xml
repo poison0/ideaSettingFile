@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sql injection violation" />
       <item value="前缀" />
       <item value="Whether body content is required. &lt;p&gt;Default is {@code true}, leading to an exception thrown in case there is no body content. Switch this to {@code false} if you prefer {@code null} to be passed when the body content is {@code null}." />
       <item value="factor" />
@@ -50,12 +51,11 @@
       <item value="Standard HTTP header names." />
       <item value="Creates a new instance" />
       <item value="Material" />
-      <item value="Decrypt" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
