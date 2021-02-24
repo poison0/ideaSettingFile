@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复" />
       <item value="sql injection violation" />
       <item value="前缀" />
       <item value="Whether body content is required. &lt;p&gt;Default is {@code true}, leading to an exception thrown in case there is no body content. Switch this to {@code false} if you prefer {@code null} to be passed when the body content is {@code null}." />
@@ -50,11 +51,10 @@
       <item value="The server encountered an internal error or misconfiguration and was unable to complete your request. Sorry for the inconvenience" />
       <item value="Standard HTTP header names." />
       <item value="Creates a new instance" />
-      <item value="Material" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
+        <entry key="CHINESE" value="204" />
         <entry key="ENGLISH" value="204" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
