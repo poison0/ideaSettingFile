@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="daily" />
+      <item value="cloudkefu" />
+      <item value="自助" />
       <item value="评价" />
       <item value="重复" />
       <item value="sql injection violation" />
@@ -48,14 +51,11 @@
       <item value="详情" />
       <item value="Constant expression required" />
       <item value="Creates a new instance with the default decoder options" />
-      <item value="enabled" />
-      <item value="The server encountered an internal error or misconfiguration and was unable to complete your request. Sorry for the inconvenience" />
-      <item value="Standard HTTP header names." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
