@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Expiring" />
+      <item value="retry" />
+      <item value="授权" />
       <item value="过期" />
+      <item value="Expiring" />
       <item value="Decrypt" />
       <item value="daily" />
       <item value="cloudkefu" />
@@ -49,13 +51,11 @@
       <item value="further occurrences of this error will be logged at DEBUG level." />
       <item value="Allowed clock skew: 0 milliseconds." />
       <item value="respect" />
-      <item value="MOBILE NOT ON SERVICE" />
-      <item value="详情" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="213" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
