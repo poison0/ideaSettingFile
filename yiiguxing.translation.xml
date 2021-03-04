@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expiring" />
+      <item value="过期" />
       <item value="Decrypt" />
       <item value="daily" />
       <item value="cloudkefu" />
@@ -17,7 +19,6 @@
       <item value="合单" />
       <item value="四天" />
       <item value="将要" />
-      <item value="过期" />
       <item value="positive" />
       <item value="Identify" />
       <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
@@ -50,12 +51,11 @@
       <item value="respect" />
       <item value="MOBILE NOT ON SERVICE" />
       <item value="详情" />
-      <item value="Constant expression required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
