@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="除数" />
+      <item value="content" />
+      <item value="计算短信个数" />
+      <item value="短信" />
       <item value="判断" />
       <item value="retry" />
       <item value="授权" />
@@ -47,15 +51,11 @@
       <item value="No Auth" />
       <item value="Declared" />
       <item value="EVALUATE" />
-      <item value="logistics" />
-      <item value="A cookie header was received [PDF,OneNote for Windows 10,OneNote (Desktop),Microsoft XPS Document Writer,Microsoft Print to PDF,Fax,] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level." />
-      <item value="further occurrences of this error will be logged at DEBUG level." />
-      <item value="Allowed clock skew: 0 milliseconds." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="216" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
