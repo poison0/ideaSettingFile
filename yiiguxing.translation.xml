@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="签名" />
       <item value="包含" />
       <item value="除数" />
       <item value="content" />
@@ -50,12 +51,11 @@
       <item value="memcached" />
       <item value="Accredit" />
       <item value="No Auth" />
-      <item value="Declared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="218" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
