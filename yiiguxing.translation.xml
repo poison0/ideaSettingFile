@@ -1,12 +1,33 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="签名" />
+      <item value="包含" />
+      <item value="除数" />
+      <item value="content" />
+      <item value="计算短信个数" />
+      <item value="短信" />
+      <item value="判断" />
+      <item value="retry" />
+      <item value="授权" />
+      <item value="过期" />
+      <item value="Expiring" />
+      <item value="Decrypt" />
+      <item value="daily" />
+      <item value="cloudkefu" />
+      <item value="自助" />
+      <item value="评价" />
+      <item value="重复" />
+      <item value="sql injection violation" />
+      <item value="前缀" />
+      <item value="Whether body content is required. &lt;p&gt;Default is {@code true}, leading to an exception thrown in case there is no body content. Switch this to {@code false} if you prefer {@code null} to be passed when the body content is {@code null}." />
+      <item value="factor" />
+      <item value="exactly" />
       <item value="unavailable" />
       <item value="Field" />
       <item value="合单" />
       <item value="四天" />
       <item value="将要" />
-      <item value="过期" />
       <item value="positive" />
       <item value="Identify" />
       <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
@@ -30,32 +51,11 @@
       <item value="memcached" />
       <item value="Accredit" />
       <item value="No Auth" />
-      <item value="Declared" />
-      <item value="EVALUATE" />
-      <item value="logistics" />
-      <item value="A cookie header was received [PDF,OneNote for Windows 10,OneNote (Desktop),Microsoft XPS Document Writer,Microsoft Print to PDF,Fax,] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level." />
-      <item value="further occurrences of this error will be logged at DEBUG level." />
-      <item value="Allowed clock skew: 0 milliseconds." />
-      <item value="respect" />
-      <item value="MOBILE NOT ON SERVICE" />
-      <item value="详情" />
-      <item value="Constant expression required" />
-      <item value="Creates a new instance with the default decoder options" />
-      <item value="enabled" />
-      <item value="The server encountered an internal error or misconfiguration and was unable to complete your request. Sorry for the inconvenience" />
-      <item value="Standard HTTP header names." />
-      <item value="Creates a new instance" />
-      <item value="Material" />
-      <item value="Decrypt" />
-      <item value="status" />
-      <item value="obj the object whose field should be modified" />
-      <item value="value the new value for the field of {@code obj}" />
-      <item value="限制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="218" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615258458069" />
+    <option name="lastTrimTime" value="1615168166128" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
