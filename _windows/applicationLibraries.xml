@@ -4,8 +4,9 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES>
-        <root url="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/" />
+        <root url="file://D:/workspace/jdk1.8.0_181/jdk1.8.0_181" />
       </SOURCES>
+      <jarDirectory url="file://D:/workspace/jdk1.8.0_181/jdk1.8.0_181" recursive="false" type="SOURCES" />
     </library>
   </component>
 </application>
