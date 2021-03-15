@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocol" />
       <item value="Cross Origin" />
       <item value="A Java library for the automatic stimulation and testing of web applications." />
       <item value="flat" />
@@ -50,12 +51,11 @@
       <item value="Constant expression required" />
       <item value="Creates a new instance with the default decoder options" />
       <item value="enabled" />
-      <item value="The server encountered an internal error or misconfiguration and was unable to complete your request. Sorry for the inconvenience" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
