@@ -14,7 +14,6 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
 </application>
