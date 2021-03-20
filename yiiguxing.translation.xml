@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ID Etalk Container Registry" />
       <item value="palette" />
       <item value="操作界面" />
       <item value="操作" />
@@ -50,12 +51,11 @@
       <item value="单个" />
       <item value="Track" />
       <item value="encryp" />
-      <item value="加密字段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
