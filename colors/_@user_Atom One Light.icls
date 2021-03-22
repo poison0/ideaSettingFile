@@ -4,7 +4,7 @@
     <property name="created">2020-12-13T08:55:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-12-13T08:58:12</property>
+    <property name="modified">2021-03-20T00:17:30</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -274,7 +274,6 @@
         <option name="FOREGROUND" value="c18401" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -778,9 +777,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e4564a" />
@@ -1067,7 +1063,6 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -1279,7 +1274,6 @@
         <option name="FOREGROUND" value="986801" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="50a14e" />
