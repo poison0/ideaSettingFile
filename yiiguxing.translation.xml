@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
       <item value="赠送礼物" />
       <item value="赠送短信" />
       <item value="赠送" />
-      <item value="合并" />
       <item value="Bundle" />
       <item value="Tbl Taobao User Give Record" />
       <item value="Dummy Send" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="217" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
