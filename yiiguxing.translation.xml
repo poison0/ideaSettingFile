@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decrpt" />
       <item value="合并" />
       <item value="赠送礼物" />
       <item value="赠送短信" />
@@ -50,7 +51,6 @@
       <item value="No Auth" />
       <item value="Declared" />
       <item value="EVALUATE" />
-      <item value="logistics" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,6 +58,7 @@
         <entry key="ENGLISH" value="217" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="HUNGARIAN" value="1" />
