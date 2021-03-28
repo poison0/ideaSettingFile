@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sibling" />
+      <item value="Previous" />
       <item value="任务" />
       <item value="提取" />
       <item value="foreground" />
@@ -49,13 +51,11 @@
       <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
       <item value="Key Generator" />
       <item value="Inside" />
-      <item value="encrypt" />
-      <item value="encrype" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
