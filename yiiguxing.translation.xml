@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="出错查询" />
       <item value="Decrpt" />
       <item value="合并" />
       <item value="赠送礼物" />
@@ -50,12 +51,11 @@
       <item value="Accredit" />
       <item value="No Auth" />
       <item value="Declared" />
-      <item value="EVALUATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="218" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616380996480" />
+    <option name="lastTrimTime" value="1616985570709" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
