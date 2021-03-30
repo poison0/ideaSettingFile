@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="反序" />
       <item value="模板" />
       <item value="internal java compiler error" />
       <item value="出错查询" />
@@ -50,12 +51,11 @@
       <item value="encryp" />
       <item value="加密字段" />
       <item value="memcached" />
-      <item value="Accredit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="221" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
