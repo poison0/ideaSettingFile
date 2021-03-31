@@ -1,6 +1,44 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Profile Red" />
+      <item value="Stop Hovered" />
+      <item value="Quickfix Bulb" />
+      <item value="Profile Memory" />
+      <item value="Profile CPU" />
+      <item value="Profile Blue" />
+      <item value="Profile" />
+      <item value="Previous Occurence" />
+      <item value="Preview Details Vertically" />
+      <item value="Preview Details" />
+      <item value="Preview" />
+      <item value="Preserve Case Hover" />
+      <item value="Preserve Case" />
+      <item value="Pop Frame" />
+      <item value="Pin Tab" />
+      <item value="Pause" />
+      <item value="Restart" />
+      <item value="Rerun" />
+      <item value="Regex Hovered" />
+      <item value="Regex" />
+      <item value="Link Drop Triangle" />
+      <item value="Layout Preview Only" />
+      <item value="Output" />
+      <item value="Check Out" />
+      <item value="Restore Layout" />
+      <item value="Ellipsis" />
+      <item value="Drop Triangle" />
+      <item value="Dropdown Gutter" />
+      <item value="Drop Place" />
+      <item value="Dropdown" />
+      <item value="退出" />
+      <item value="Upload" />
+      <item value="Step Out Code Block" />
+      <item value="Step Out" />
+      <item value="Quickfix Off Bulb" />
+      <item value="Redo" />
+      <item value="Refactoring Bulb" />
+      <item value="登出" />
       <item value="Collection Combo Box Model" />
       <item value="New Item With Templates Popup Panel" />
       <item value="Sibling" />
@@ -13,52 +51,16 @@
       <item value="Balloon" />
       <item value="刷新" />
       <item value="Widget" />
-      <item value="Log In" />
-      <item value="Preferred" />
-      <item value="第二" />
-      <item value="二" />
-      <item value="ID Etalk Container Registry" />
-      <item value="palette" />
-      <item value="操作界面" />
-      <item value="操作" />
-      <item value="签名" />
-      <item value="包含" />
-      <item value="除数" />
-      <item value="content" />
-      <item value="计算短信个数" />
-      <item value="短信" />
-      <item value="判断" />
-      <item value="retry" />
-      <item value="授权" />
-      <item value="过期" />
-      <item value="Expiring" />
-      <item value="Decrypt" />
-      <item value="daily" />
-      <item value="cloudkefu" />
-      <item value="自助" />
-      <item value="评价" />
-      <item value="重复" />
-      <item value="sql injection violation" />
-      <item value="前缀" />
-      <item value="Whether body content is required. &lt;p&gt;Default is {@code true}, leading to an exception thrown in case there is no body content. Switch this to {@code false} if you prefer {@code null} to be passed when the body content is {@code null}." />
-      <item value="factor" />
-      <item value="exactly" />
-      <item value="unavailable" />
-      <item value="Field" />
-      <item value="合单" />
-      <item value="四天" />
-      <item value="将要" />
-      <item value="positive" />
-      <item value="Identify" />
-      <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="HMONG" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
