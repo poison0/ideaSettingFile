@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maintain" />
+      <item value="Popup" />
       <item value="Smart coding assistance for Dart that includes code completion, formatting, navigation, intentions, refactorings, and more Integration with pub and the Dart Analysis Server The IDE detects the problems with your code on-the-fly and suggests ways to automatically fix them Run and debug Dart command-line and web applications right in the IDE using the built-in debugger Run and debug tests Create new Dart projects from the IDE Welcome screen" />
       <item value="反序" />
       <item value="模板" />
@@ -49,13 +51,11 @@
       <item value="encryption" />
       <item value="单个" />
       <item value="Track" />
-      <item value="encryp" />
-      <item value="加密字段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
