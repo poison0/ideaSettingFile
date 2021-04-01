@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Describes a transaction attribute on an individual method or on a class." />
+      <item value="Transactional" />
       <item value="make" />
       <item value="凑数" />
       <item value="Parallel" />
@@ -49,13 +51,11 @@
       <item value="modifiers" />
       <item value="This is very likely to create a memory leak. Stack trace of thread" />
       <item value="里面" />
-      <item value="加密" />
-      <item value="Proceed with the next advice or target method invocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
