@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multi" />
+      <item value="Mu Lti" />
+      <item value="多个" />
       <item value="设置" />
       <item value="导出" />
       <item value="Export" />
@@ -48,14 +51,11 @@
       <item value="Inside" />
       <item value="encrypt" />
       <item value="encrype" />
-      <item value="decrypt" />
-      <item value="Decryption" />
-      <item value="Input length must be multiple of 16 when decrypting with padded cipher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="232" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
