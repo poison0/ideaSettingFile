@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not Implemented" />
+      <item value="FORMULA" />
+      <item value="NUMERIC" />
+      <item value="Cannot get a NUMERIC value from a STRING cell" />
       <item value="Enumeration of all possible axis positions" />
       <item value="Use a category axis for the bottom axis" />
       <item value="STRING" />
@@ -47,15 +51,11 @@
       <item value="Convenient method to build a URL and load it into the current WebWindow as it would be done by getPage(WebWindow, WebRequest)." />
       <item value="protocol" />
       <item value="Cross Origin" />
-      <item value="A Java library for the automatic stimulation and testing of web applications." />
-      <item value="flat" />
-      <item value="Only the Kotlin standard library is allowed to use the 'kotlin' package" />
-      <item value="好评" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
