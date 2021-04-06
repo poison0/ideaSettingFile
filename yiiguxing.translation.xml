@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enumeration of all possible axis positions" />
+      <item value="Use a category axis for the bottom axis" />
+      <item value="STRING" />
       <item value="Numeric" />
       <item value="Blank cell type" />
       <item value="Indexes are zero-based" />
@@ -48,14 +51,11 @@
       <item value="flat" />
       <item value="Only the Kotlin standard library is allowed to use the 'kotlin' package" />
       <item value="好评" />
-      <item value="temporary Data" />
-      <item value="重复" />
-      <item value="is Have Send Me Option" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
