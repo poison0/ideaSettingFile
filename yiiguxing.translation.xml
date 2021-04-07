@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AS" />
+      <item value="Archive" />
+      <item value="Webreferences" />
+      <item value="Branch" />
+      <item value="Run Configurations" />
+      <item value="Azure" />
+      <item value="Process" />
+      <item value="Plugin Logo Disabled" />
+      <item value="Disabled" />
+      <item value="Cwm Access Off" />
+      <item value="Code With Me" />
+      <item value="Debugger" />
+      <item value="Duplicates" />
+      <item value="Htaccess" />
+      <item value="Hprof" />
+      <item value="Any type" />
+      <item value="File Types" />
+      <item value="Next Step" />
+      <item value="Next Step Inverted" />
+      <item value="Scope" />
+      <item value="Diff" />
       <item value="set Vertical Alignment" />
       <item value="Compound" />
       <item value="Darcula" />
@@ -30,39 +51,18 @@
       <item value="Preview Details" />
       <item value="Preview" />
       <item value="Preserve Case Hover" />
-      <item value="Preserve Case" />
-      <item value="Pop Frame" />
-      <item value="Pin Tab" />
-      <item value="Pause" />
-      <item value="Restart" />
-      <item value="Rerun" />
-      <item value="Regex Hovered" />
-      <item value="Regex" />
-      <item value="Link Drop Triangle" />
-      <item value="Layout Preview Only" />
-      <item value="Output" />
-      <item value="Check Out" />
-      <item value="Restore Layout" />
-      <item value="Ellipsis" />
-      <item value="Drop Triangle" />
-      <item value="Dropdown Gutter" />
-      <item value="Drop Place" />
-      <item value="Dropdown" />
-      <item value="退出" />
-      <item value="Upload" />
-      <item value="Step Out Code Block" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="309" />
+        <entry key="ENGLISH" value="310" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
-        <entry key="WELSH" value="1" />
+        <entry key="WELSH" value="2" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
