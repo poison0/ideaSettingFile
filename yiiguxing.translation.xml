@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Vertical Alignment" />
+      <item value="Compound" />
+      <item value="Darcula" />
+      <item value="Corner" />
+      <item value="Custom Line Border" />
       <item value="历史" />
       <item value="set Window Adapter" />
       <item value="powered by FernFlower decompiler" />
@@ -46,18 +51,14 @@
       <item value="退出" />
       <item value="Upload" />
       <item value="Step Out Code Block" />
-      <item value="Step Out" />
-      <item value="Quickfix Off Bulb" />
-      <item value="Redo" />
-      <item value="Refactoring Bulb" />
-      <item value="登出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
