@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="component must be showing on the screen to determine its location" />
       <item value="set Idle" />
       <item value="AS" />
       <item value="Archive" />
@@ -50,12 +51,11 @@
       <item value="Previous Occurence" />
       <item value="Preview Details Vertically" />
       <item value="Preview Details" />
-      <item value="Preview" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
