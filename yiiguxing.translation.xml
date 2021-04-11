@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="孩子" />
+      <item value="History" />
+      <item value="Describe" />
+      <item value="Detail" />
       <item value="Enclosed" />
       <item value="vertica" />
       <item value="component must be showing on the screen to determine its location" />
@@ -47,15 +51,11 @@
       <item value="Stop Hovered" />
       <item value="Quickfix Bulb" />
       <item value="Profile Memory" />
-      <item value="Profile CPU" />
-      <item value="Profile Blue" />
-      <item value="Profile" />
-      <item value="Previous Occurence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="318" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
