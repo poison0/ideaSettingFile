@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enclosed" />
       <item value="vertica" />
       <item value="component must be showing on the screen to determine its location" />
       <item value="set Idle" />
@@ -50,12 +51,11 @@
       <item value="Profile Blue" />
       <item value="Profile" />
       <item value="Previous Occurence" />
-      <item value="Preview Details Vertically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="315" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
