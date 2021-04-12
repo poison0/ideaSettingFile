@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.form" />
     <mask>*.properties</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -18,5 +19,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.form</mask>
   </component>
 </application>

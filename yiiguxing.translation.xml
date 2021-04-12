@@ -1,72 +1,74 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Throw" />
-      <item value="Sync" />
-      <item value="Async" />
-      <item value="limit" />
-      <item value="限流" />
-      <item value="标志" />
-      <item value="Sets the anchor type" />
-      <item value="Plots specified data on the chart" />
-      <item value="from Numeric Cell Range" />
-      <item value="cross between type" />
-      <item value="crossBetween cross between type" />
-      <item value="new date category axis at the end of the list at the specified chart position" />
-      <item value="new category axis at the end of the list at the specified chart position" />
-      <item value="Not Implemented" />
-      <item value="FORMULA" />
-      <item value="NUMERIC" />
-      <item value="Cannot get a NUMERIC value from a STRING cell" />
-      <item value="Enumeration of all possible axis positions" />
-      <item value="Use a category axis for the bottom axis" />
-      <item value="STRING" />
-      <item value="Numeric" />
-      <item value="Blank cell type" />
-      <item value="Indexes are zero-based" />
-      <item value="列" />
-      <item value="行" />
-      <item value="折线图" />
-      <item value="图" />
-      <item value="categories" />
-      <item value="@param categories data source for categories. @param values data source for values. @return a new line chart serie." />
-      <item value="create Anchor" />
-      <item value="概况" />
-      <item value="明细" />
-      <item value="flag" />
-      <item value="Multi" />
-      <item value="Mu Lti" />
-      <item value="多个" />
-      <item value="设置" />
-      <item value="导出" />
-      <item value="Export" />
-      <item value="Describes a transaction attribute on an individual method or on a class." />
-      <item value="Transactional" />
-      <item value="make" />
-      <item value="凑数" />
-      <item value="Parallel" />
-      <item value="maintain" />
-      <item value="Popup" />
-      <item value="Smart coding assistance for Dart that includes code completion, formatting, navigation, intentions, refactorings, and more Integration with pub and the Dart Analysis Server The IDE detects the problems with your code on-the-fly and suggests ways to automatically fix them Run and debug Dart command-line and web applications right in the IDE using the built-in debugger Run and debug tests Create new Dart projects from the IDE Welcome screen" />
-      <item value="反序" />
-      <item value="模板" />
-      <item value="internal java compiler error" />
+      <item value="set Idle" />
+      <item value="AS" />
+      <item value="Archive" />
+      <item value="Webreferences" />
+      <item value="Branch" />
+      <item value="Run Configurations" />
+      <item value="Azure" />
+      <item value="Process" />
+      <item value="Plugin Logo Disabled" />
+      <item value="Disabled" />
+      <item value="Cwm Access Off" />
+      <item value="Code With Me" />
+      <item value="Debugger" />
+      <item value="Duplicates" />
+      <item value="Htaccess" />
+      <item value="Hprof" />
+      <item value="Any type" />
+      <item value="File Types" />
+      <item value="Next Step" />
+      <item value="Next Step Inverted" />
+      <item value="Scope" />
+      <item value="Diff" />
+      <item value="set Vertical Alignment" />
+      <item value="Compound" />
+      <item value="Darcula" />
+      <item value="Corner" />
+      <item value="Custom Line Border" />
+      <item value="历史" />
+      <item value="set Window Adapter" />
+      <item value="powered by FernFlower decompiler" />
+      <item value="Configurable" />
+      <item value="Adapter" />
+      <item value="Line Margin Border" />
+      <item value="Callout Border" />
+      <item value="anchor" />
+      <item value="Adaptive Border" />
+      <item value="regular" />
+      <item value="MAGENTA" />
+      <item value="LIGHT" />
+      <item value="Profile Red" />
+      <item value="Stop Hovered" />
+      <item value="Quickfix Bulb" />
+      <item value="Profile Memory" />
+      <item value="Profile CPU" />
+      <item value="Profile Blue" />
+      <item value="Profile" />
+      <item value="Previous Occurence" />
+      <item value="Preview Details Vertically" />
+      <item value="Preview Details" />
+      <item value="Preview" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
-        <entry key="CATALAN" value="1" />
-        <entry key="SWEDISH" value="1" />
-        <entry key="WELSH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="HMONG" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="WELSH" value="2" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617671690435" />
+    <option name="lastTrimTime" value="1617629559083" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
