@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
-    <option name="allowDataCollection" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
