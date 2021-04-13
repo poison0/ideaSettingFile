@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ITALIC" />
+      <item value="name the font name" />
       <item value="Extract" />
       <item value="生成详细信息" />
       <item value="孩子" />
@@ -49,13 +51,11 @@
       <item value="regular" />
       <item value="MAGENTA" />
       <item value="LIGHT" />
-      <item value="Profile Red" />
-      <item value="Stop Hovered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
