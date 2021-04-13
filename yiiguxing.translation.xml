@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regular" />
       <item value="Gear" />
       <item value="ITALIC" />
       <item value="name the font name" />
@@ -49,13 +50,12 @@
       <item value="Callout Border" />
       <item value="anchor" />
       <item value="Adaptive Border" />
-      <item value="regular" />
       <item value="MAGENTA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
