@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="import Memo By Ww" />
       <item value="All illegal access operations will be denied in a future release" />
       <item value="Use --illegal-access=warn to enable warnings of further illegal reflective access operations" />
       <item value="Illegal reflective access by com.intellij.ui.JreHiDpiUtil to method sun.java2d.SunGraphicsEnvironment.isUIScaleEnabled()" />
@@ -50,12 +51,11 @@
       <item value="powered by FernFlower decompiler" />
       <item value="Configurable" />
       <item value="Adapter" />
-      <item value="Line Margin Border" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
