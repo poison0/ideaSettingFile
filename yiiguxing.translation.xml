@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All illegal access operations will be denied in a future release" />
+      <item value="Use --illegal-access=warn to enable warnings of further illegal reflective access operations" />
+      <item value="Illegal reflective access by com.intellij.ui.JreHiDpiUtil to method sun.java2d.SunGraphicsEnvironment.isUIScaleEnabled()" />
+      <item value="An illegal reflective access operation has occurred" />
       <item value="regular" />
       <item value="Gear" />
       <item value="ITALIC" />
@@ -47,15 +51,11 @@
       <item value="Configurable" />
       <item value="Adapter" />
       <item value="Line Margin Border" />
-      <item value="Callout Border" />
-      <item value="anchor" />
-      <item value="Adaptive Border" />
-      <item value="MAGENTA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
