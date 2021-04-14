@@ -1,37 +1,79 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="The parameter type of the parameter." />
-      <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
-      <item value="Insufficient isv permissions" />
-      <item value="Insufficient" />
-      <item value="This plugin is used for code style checking. It could report code smells in your source files. If you want to add more customization please contact me, or checkout the CodeStyleChecker project on github. Note: this plugin scans the file content based on the text, but no any AST technologies are used. If some issues were reported inaccurately, please ignore it or leave a comment. Thanks." />
-      <item value="customization" />
-      <item value="smells" />
-      <item value="upper Limit" />
-      <item value="Add some framework support, such as mybatis etc. depend on intellij'spring plugin, not support intellij community、Android Studio version so far" />
-      <item value="Inspection" />
-      <item value="Interface not allowed for non-abstract beans" />
-      <item value="* The prefix of the properties that are valid to bind to this object. Synonym for * {@link #value()}. A valid prefix is defined by one or more words separated with" />
-      <item value="* Indicate if failure to find the a {@link #value() property resource} should be * ignored. * &lt;p&gt;{@code true} is appropriate if the properties file is completely optional. * Default is {@code false}." />
-      <item value="* Flag to indicate that when binding to this object unknown fields should be ignored. * An unknown field could be a sign of a mistake in the Properties." />
-      <item value="* Flag to indicate that when binding to this object invalid fields should be ignored. * Invalid means invalid according to the binder that is used, and usually this means * fields of the wrong type (or that cannot be coerced into the correct type)." />
-      <item value="Creates a criterion using a {@literal $regex} operator." />
-      <item value="secondary" />
-      <item value="primary" />
-      <item value="Filter" />
-      <item value="Unmapped Spring configuration files found. Please configure Spring facet or use 'Create Default Context' to add one including all unmapped files." />
-      <item value="field" />
-      <item value="files" />
-      <item value="fields" />
-      <item value="required" />
+      <item value="regular" />
+      <item value="Gear" />
+      <item value="ITALIC" />
+      <item value="name the font name" />
+      <item value="Extract" />
+      <item value="生成详细信息" />
+      <item value="孩子" />
+      <item value="History" />
+      <item value="Describe" />
+      <item value="Detail" />
+      <item value="Enclosed" />
+      <item value="vertica" />
+      <item value="component must be showing on the screen to determine its location" />
+      <item value="set Idle" />
+      <item value="AS" />
+      <item value="Archive" />
+      <item value="Webreferences" />
+      <item value="Branch" />
+      <item value="Run Configurations" />
+      <item value="Azure" />
+      <item value="Process" />
+      <item value="Plugin Logo Disabled" />
+      <item value="Disabled" />
+      <item value="Cwm Access Off" />
+      <item value="Code With Me" />
+      <item value="Debugger" />
+      <item value="Duplicates" />
+      <item value="Htaccess" />
+      <item value="Hprof" />
+      <item value="Any type" />
+      <item value="File Types" />
+      <item value="Next Step" />
+      <item value="Next Step Inverted" />
+      <item value="Scope" />
+      <item value="Diff" />
+      <item value="set Vertical Alignment" />
+      <item value="Compound" />
+      <item value="Darcula" />
+      <item value="Corner" />
+      <item value="Custom Line Border" />
+      <item value="历史" />
+      <item value="set Window Adapter" />
+      <item value="powered by FernFlower decompiler" />
+      <item value="Configurable" />
+      <item value="Adapter" />
+      <item value="Line Margin Border" />
+      <item value="Callout Border" />
+      <item value="anchor" />
+      <item value="Adaptive Border" />
+      <item value="MAGENTA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
-        <entry key="GERMAN" value="1" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="325" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FRENCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="HMONG" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="WELSH" value="2" />
+        <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1618106664460" />
+  </component>
+  <component name="Settings">
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
