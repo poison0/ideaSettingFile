@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="764" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="加载" />
       <item value="Metal" />
       <item value="刷新" />
       <item value="refuse" />
@@ -54,11 +55,10 @@
       <item value="powered by FernFlower decompiler" />
       <item value="Configurable" />
       <item value="Adapter" />
-      <item value="Line Margin Border" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
+        <entry key="CHINESE" value="328" />
         <entry key="ENGLISH" value="328" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
