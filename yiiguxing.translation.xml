@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upload" />
       <item value="Tran PluginClassLoader" />
       <item value="Plugin Class Loader" />
       <item value="Chinese spell and grammar checkers are unavailable after the plugin update." />
@@ -50,12 +51,11 @@
       <item value="Compound" />
       <item value="Darcula" />
       <item value="Corner" />
-      <item value="Custom Line Border" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
