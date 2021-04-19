@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfrom" />
       <item value="decrypt" />
       <item value="最早" />
       <item value="早" />
@@ -50,12 +51,11 @@
       <item value="File Types" />
       <item value="Next Step" />
       <item value="Next Step Inverted" />
-      <item value="Scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
