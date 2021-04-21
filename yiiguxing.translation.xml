@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="javac 1.8.0_181 was used to compile java sources" />
       <item value="create time" />
       <item value="transfrom" />
       <item value="decrypt" />
@@ -50,12 +51,11 @@
       <item value="Hprof" />
       <item value="Any type" />
       <item value="File Types" />
-      <item value="Next Step" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618539460563" />
+    <option name="lastTrimTime" value="1618974923031" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
