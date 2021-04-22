@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理" />
+      <item value="等待" />
+      <item value="limit" />
+      <item value="失败" />
+      <item value="report" />
       <item value="Insufficient Balance" />
       <item value="Insufficient" />
       <item value="Balance" />
@@ -46,16 +51,11 @@
       <item value="Webreferences" />
       <item value="Branch" />
       <item value="Run Configurations" />
-      <item value="Azure" />
-      <item value="Process" />
-      <item value="Plugin Logo Disabled" />
-      <item value="Disabled" />
-      <item value="Cwm Access Off" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="352" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
