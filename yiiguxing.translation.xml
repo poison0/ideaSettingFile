@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Execute the annotated method with a fixed period in milliseconds between invocations." />
       <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
       <item value="CONTENT KEYWORD" />
       <item value="SP UNKNOWN ERROR" />
@@ -50,12 +51,11 @@
       <item value="Illegal reflective access by com.intellij.ui.JreHiDpiUtil to method sun.java2d.SunGraphicsEnvironment.isUIScaleEnabled()" />
       <item value="An illegal reflective access operation has occurred" />
       <item value="regular" />
-      <item value="Gear" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
