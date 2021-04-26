@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String length must be a multiple of four" />
       <item value="Insufficient Balance" />
       <item value="Returns a string resulting from replacing all occurrences of" />
       <item value="Unclosed group near index 7" />
@@ -50,12 +51,11 @@
       <item value="Plugin Class Loader" />
       <item value="Chinese spell and grammar checkers are unavailable after the plugin update." />
       <item value="转换" />
-      <item value="cover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="392" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
