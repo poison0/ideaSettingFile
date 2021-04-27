@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied {@code delimiter}. If no characters are added to the {@code StringJoiner} and methods accessing the value of it are invoked, it will not return a {@code prefix} or {@code suffix} (or properties thereof) in the result, unless {@code setEmptyValue} has first been called." />
+      <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied" />
+      <item value="String Joiner" />
+      <item value="Joiner" />
       <item value="hold" />
       <item value="export" />
       <item value="String length must be a multiple of four" />
@@ -47,15 +51,11 @@
       <item value="最早" />
       <item value="早" />
       <item value="update Cache" />
-      <item value="Given final block not properly padded" />
-      <item value="upload" />
-      <item value="Tran PluginClassLoader" />
-      <item value="Plugin Class Loader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="398" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
