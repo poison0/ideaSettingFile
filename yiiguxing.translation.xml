@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable" />
+      <item value="启用" />
       <item value="FAIL BIZ TARGET SERVICE ERROR" />
       <item value="厂商" />
       <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied {@code delimiter}. If no characters are added to the {@code StringJoiner} and methods accessing the value of it are invoked, it will not return a {@code prefix} or {@code suffix} (or properties thereof) in the result, unless {@code setEmptyValue} has first been called." />
@@ -49,13 +51,11 @@
       <item value="javac 1.8.0_181 was used to compile java sources" />
       <item value="create time" />
       <item value="transfrom" />
-      <item value="decrypt" />
-      <item value="最早" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="399" />
+        <entry key="ENGLISH" value="400" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
