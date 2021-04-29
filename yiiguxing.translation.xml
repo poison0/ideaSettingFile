@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separation For Modify" />
+      <item value="set Mongodb Data" />
+      <item value="update Cache With Trades Sold Get" />
+      <item value="缓存" />
+      <item value="Cache" />
       <item value="Enable" />
       <item value="启用" />
       <item value="FAIL BIZ TARGET SERVICE ERROR" />
@@ -46,16 +51,11 @@
       <item value="Balance" />
       <item value="Resend Insufficient Balance" />
       <item value="余额不足" />
-      <item value="java: Compilation failed: internal java compiler error" />
-      <item value="Dependency analysis found 67 affected files" />
-      <item value="javac 1.8.0_181 was used to compile java sources" />
-      <item value="create time" />
-      <item value="transfrom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
