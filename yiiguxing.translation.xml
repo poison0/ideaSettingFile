@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="last Create Time" />
+      <item value="最近创建时间" />
+      <item value="最近" />
+      <item value="最新创建时间" />
+      <item value="最新" />
       <item value="fixme" />
       <item value="separation For Modify" />
       <item value="set Mongodb Data" />
@@ -46,11 +51,6 @@
       <item value="处理" />
       <item value="等待" />
       <item value="limit" />
-      <item value="失败" />
-      <item value="report" />
-      <item value="Insufficient" />
-      <item value="Balance" />
-      <item value="Resend Insufficient Balance" />
     </histories>
     <option name="languageScores">
       <map>
