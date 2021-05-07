@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variables" />
       <item value="last Create Time" />
       <item value="最近创建时间" />
       <item value="最近" />
@@ -50,7 +51,6 @@
       <item value="NO ROUTE" />
       <item value="处理" />
       <item value="等待" />
-      <item value="limit" />
     </histories>
     <option name="languageScores">
       <map>
