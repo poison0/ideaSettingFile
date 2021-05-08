@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRANSACTION" />
       <item value="Dynamic" />
       <item value="foreign" />
       <item value="variables" />
@@ -50,7 +51,6 @@
       <item value="DILIVE" />
       <item value="DILIVERD" />
       <item value="MOBILE IN BLACK" />
-      <item value="NO ROUTE" />
     </histories>
     <option name="languageScores">
       <map>
