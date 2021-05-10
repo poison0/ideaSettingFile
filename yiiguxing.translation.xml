@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maximum number of connections that can be allocated by the pool at a given time. Use a negative value for no limit." />
       <item value="TRANSACTION" />
       <item value="Dynamic" />
       <item value="foreign" />
@@ -50,7 +51,6 @@
       <item value="DILIVER" />
       <item value="DILIVE" />
       <item value="DILIVERD" />
-      <item value="MOBILE IN BLACK" />
     </histories>
     <option name="languageScores">
       <map>
