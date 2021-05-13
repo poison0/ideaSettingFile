@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="项目说明" type="PLAIN_TEXT" />
+      <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping ext="2019-03-14" type="PLAIN_TEXT" />
       <mapping ext="2019-02-18" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
