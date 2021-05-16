@@ -1,67 +1,64 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="347" />
-    <option name="newTranslationDialogWidth" value="718" />
-    <option name="newTranslationDialogX" value="764" />
-    <option name="newTranslationDialogY" value="321" />
     <histories>
-      <item value="Visible" />
-      <item value="加载" />
-      <item value="Metal" />
-      <item value="刷新" />
-      <item value="refuse" />
-      <item value="refush" />
-      <item value="regular" />
-      <item value="Gear" />
-      <item value="ITALIC" />
-      <item value="name the font name" />
-      <item value="Extract" />
-      <item value="生成详细信息" />
-      <item value="孩子" />
-      <item value="History" />
-      <item value="Describe" />
-      <item value="Detail" />
-      <item value="Enclosed" />
-      <item value="vertica" />
-      <item value="component must be showing on the screen to determine its location" />
-      <item value="set Idle" />
-      <item value="AS" />
-      <item value="Archive" />
-      <item value="Webreferences" />
-      <item value="Branch" />
-      <item value="Run Configurations" />
-      <item value="Azure" />
-      <item value="Process" />
-      <item value="Plugin Logo Disabled" />
-      <item value="Disabled" />
-      <item value="Cwm Access Off" />
-      <item value="Code With Me" />
-      <item value="Debugger" />
-      <item value="Duplicates" />
-      <item value="Htaccess" />
-      <item value="Hprof" />
-      <item value="Any type" />
-      <item value="File Types" />
-      <item value="Next Step" />
-      <item value="Next Step Inverted" />
-      <item value="Scope" />
-      <item value="Diff" />
-      <item value="set Vertical Alignment" />
-      <item value="Compound" />
-      <item value="Darcula" />
-      <item value="Corner" />
-      <item value="Custom Line Border" />
-      <item value="历史" />
-      <item value="set Window Adapter" />
-      <item value="powered by FernFlower decompiler" />
-      <item value="Configurable" />
+      <item value="Maximum number of connections that can be allocated by the pool at a given time. Use a negative value for no limit." />
+      <item value="TRANSACTION" />
+      <item value="Dynamic" />
+      <item value="foreign" />
+      <item value="variables" />
+      <item value="last Create Time" />
+      <item value="最近创建时间" />
+      <item value="最近" />
+      <item value="最新创建时间" />
+      <item value="最新" />
+      <item value="fixme" />
+      <item value="separation For Modify" />
+      <item value="set Mongodb Data" />
+      <item value="update Cache With Trades Sold Get" />
+      <item value="缓存" />
+      <item value="Cache" />
+      <item value="Enable" />
+      <item value="启用" />
+      <item value="FAIL BIZ TARGET SERVICE ERROR" />
+      <item value="厂商" />
+      <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied {@code delimiter}. If no characters are added to the {@code StringJoiner} and methods accessing the value of it are invoked, it will not return a {@code prefix} or {@code suffix} (or properties thereof) in the result, unless {@code setEmptyValue} has first been called." />
+      <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied" />
+      <item value="String Joiner" />
+      <item value="Joiner" />
+      <item value="hold" />
+      <item value="export" />
+      <item value="String length must be a multiple of four" />
+      <item value="Insufficient Balance" />
+      <item value="Returns a string resulting from replacing all occurrences of" />
+      <item value="Unclosed group near index 7" />
+      <item value="Unclosed" />
+      <item value="batch" />
+      <item value="A qualifier value for the specified asynchronous operation(s). &lt;p&gt;May be used to determine the target executor to be used when executing the asynchronous operation(s), matching the qualifier value (or the bean name) of a specific {@link java.util.concurrent.Executor Executor} or {@link org.springframework.core.task.TaskExecutor TaskExecutor} bean definition. &lt;p&gt;When specified on a class-level {@code @Async} annotation, indicates that the given executor should be used for all methods within the class. Method-level use of {@code Asyncvalue} always overrides any value set at the class level. @since 3.1.2" />
+      <item value="Number of milliseconds to delay before the first execution of a" />
+      <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
+      <item value="Execute the annotated method with a fixed period in milliseconds between invocations." />
+      <item value="CONTENT KEYWORD" />
+      <item value="SP UNKNOWN ERROR" />
+      <item value="SIGNATURE BLACKLIST" />
+      <item value="REQUEST SUCCESS" />
+      <item value="PARAMS ILLEGAL" />
+      <item value="MOBLLE TERMINAL ERROR" />
+      <item value="MOBILE SEND LIMIT" />
+      <item value="MOBILE NOT ON SERVICE" />
+      <item value="MOBILE ACCOUNT ABNORMAL" />
+      <item value="INVALID NUMBER" />
+      <item value="USER REJECT" />
+      <item value="DILIVER" />
+      <item value="DILIVE" />
+      <item value="DILIVERD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
+        <entry key="KURDISH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -72,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621136263827" />
+    <option name="lastTrimTime" value="1620702577158" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
