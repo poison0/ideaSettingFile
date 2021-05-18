@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimize" />
+      <item value="OPTIMIZE" />
       <item value="strict" />
       <item value="重置" />
       <item value="Specifies if the parameter is required or not" />
@@ -49,8 +51,6 @@
       <item value="MOBLLE TERMINAL ERROR" />
       <item value="MOBILE SEND LIMIT" />
       <item value="MOBILE NOT ON SERVICE" />
-      <item value="MOBILE ACCOUNT ABNORMAL" />
-      <item value="INVALID NUMBER" />
     </histories>
     <option name="languageScores">
       <map>
