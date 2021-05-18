@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permissions" />
+      <item value="insufficient" />
       <item value="optimize" />
       <item value="OPTIMIZE" />
       <item value="strict" />
@@ -49,8 +51,6 @@
       <item value="REQUEST SUCCESS" />
       <item value="PARAMS ILLEGAL" />
       <item value="MOBLLE TERMINAL ERROR" />
-      <item value="MOBILE SEND LIMIT" />
-      <item value="MOBILE NOT ON SERVICE" />
     </histories>
     <option name="languageScores">
       <map>
