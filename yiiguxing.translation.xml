@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strict" />
       <item value="重置" />
       <item value="Specifies if the parameter is required or not" />
       <item value="已经发送" />
@@ -50,7 +51,6 @@
       <item value="MOBILE NOT ON SERVICE" />
       <item value="MOBILE ACCOUNT ABNORMAL" />
       <item value="INVALID NUMBER" />
-      <item value="USER REJECT" />
     </histories>
     <option name="languageScores">
       <map>
