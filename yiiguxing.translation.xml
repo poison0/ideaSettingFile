@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Database View Popup" />
+      <item value="Action Places" />
       <item value="grid" />
       <item value="anchor" />
       <item value="重置" />
@@ -49,13 +51,11 @@
       <item value="PARAMS ILLEGAL" />
       <item value="MOBLLE TERMINAL ERROR" />
       <item value="MOBILE SEND LIMIT" />
-      <item value="MOBILE NOT ON SERVICE" />
-      <item value="MOBILE ACCOUNT ABNORMAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
