@@ -1,17 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="判断" />
-      <item value="judement" />
-      <item value="SIGNATURE BLACKLIST" />
-      <item value="queries" />
-      <item value="privacy" />
-      <item value="隐私保护" />
-      <item value="permissions" />
-      <item value="insufficient" />
-      <item value="optimize" />
-      <item value="OPTIMIZE" />
-      <item value="strict" />
+      <item value="Database View Popup" />
+      <item value="Action Places" />
+      <item value="grid" />
+      <item value="anchor" />
       <item value="重置" />
       <item value="Specifies if the parameter is required or not" />
       <item value="已经发送" />
@@ -51,11 +44,18 @@
       <item value="Number of milliseconds to delay before the first execution of a" />
       <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
       <item value="Execute the annotated method with a fixed period in milliseconds between invocations." />
+      <item value="CONTENT KEYWORD" />
+      <item value="SP UNKNOWN ERROR" />
+      <item value="SIGNATURE BLACKLIST" />
+      <item value="REQUEST SUCCESS" />
+      <item value="PARAMS ILLEGAL" />
+      <item value="MOBLLE TERMINAL ERROR" />
+      <item value="MOBILE SEND LIMIT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
