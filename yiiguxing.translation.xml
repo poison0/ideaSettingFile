@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Using this naming policy with Gson will modify the Java Field name from its camel cased form to a lower case field name where each word is separated by an underscore (_)." />
+      <item value="Using this naming policy with Gson will ensure that the field name is unchanged." />
       <item value="context" />
       <item value="destroy Method" />
       <item value="denied" />
@@ -49,8 +51,6 @@
       <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
       <item value="Execute the annotated method with a fixed period in milliseconds between invocations." />
       <item value="SP UNKNOWN ERROR" />
-      <item value="SIGNATURE BLACKLIST" />
-      <item value="REQUEST SUCCESS" />
     </histories>
     <option name="languageScores">
       <map>
