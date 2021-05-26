@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理" />
       <item value="BEGIN OBJECT" />
       <item value="STRING" />
       <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 123 path .content" />
@@ -50,7 +51,6 @@
       <item value="Unclosed" />
       <item value="batch" />
       <item value="A qualifier value for the specified asynchronous operation(s). &lt;p&gt;May be used to determine the target executor to be used when executing the asynchronous operation(s), matching the qualifier value (or the bean name) of a specific {@link java.util.concurrent.Executor Executor} or {@link org.springframework.core.task.TaskExecutor TaskExecutor} bean definition. &lt;p&gt;When specified on a class-level {@code @Async} annotation, indicates that the given executor should be used for all methods within the class. Method-level use of {@code Asyncvalue} always overrides any value set at the class level. @since 3.1.2" />
-      <item value="Number of milliseconds to delay before the first execution of a" />
     </histories>
     <option name="languageScores">
       <map>
