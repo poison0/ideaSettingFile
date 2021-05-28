@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verify" />
       <item value="verify Info DO" />
       <item value="tbl Sms Verify DO" />
       <item value="Boolean method 'isValidDate' is always inverted" />
@@ -50,7 +51,6 @@
       <item value="Joiner" />
       <item value="hold" />
       <item value="export" />
-      <item value="String length must be a multiple of four" />
     </histories>
     <option name="languageScores">
       <map>
