@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
       <item value="anchor" />
       <item value="Database View Popup" />
       <item value="Action Places" />
@@ -50,11 +51,10 @@
       <item value="REQUEST SUCCESS" />
       <item value="PARAMS ILLEGAL" />
       <item value="MOBLLE TERMINAL ERROR" />
-      <item value="MOBILE SEND LIMIT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
+        <entry key="CHINESE" value="411" />
         <entry key="ENGLISH" value="411" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621217509473" />
+    <option name="lastTrimTime" value="1622276381944" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
