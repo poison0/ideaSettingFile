@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="he title the border should display" />
+      <item value="Creates a TitledBorder instance." />
       <item value="Extract" />
       <item value="解析" />
       <item value="anchor" />
@@ -49,13 +51,11 @@
       <item value="CONTENT KEYWORD" />
       <item value="SP UNKNOWN ERROR" />
       <item value="SIGNATURE BLACKLIST" />
-      <item value="REQUEST SUCCESS" />
-      <item value="PARAMS ILLEGAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
