@@ -1,14 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="he title the border should display" />
-      <item value="Creates a TitledBorder instance." />
-      <item value="Extract" />
-      <item value="解析" />
-      <item value="anchor" />
+      <item value="Evaluate" />
+      <item value="MOBILE SEND LIMIT" />
+      <item value="CONTENT" />
+      <item value="处理" />
+      <item value="BEGIN OBJECT" />
+      <item value="STRING" />
+      <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 123 path .content" />
+      <item value="Using this naming policy with Gson will modify the Java Field name from its camel cased form to a lower case field name where each word is separated by an underscore (_)." />
+      <item value="Using this naming policy with Gson will ensure that the field name is unchanged." />
+      <item value="context" />
+      <item value="destroy Method" />
+      <item value="denied" />
+      <item value="CONTENT KEYWORD" />
       <item value="Database View Popup" />
       <item value="Action Places" />
       <item value="grid" />
+      <item value="anchor" />
       <item value="重置" />
       <item value="Specifies if the parameter is required or not" />
       <item value="已经发送" />
@@ -42,20 +51,11 @@
       <item value="Insufficient Balance" />
       <item value="Returns a string resulting from replacing all occurrences of" />
       <item value="Unclosed group near index 7" />
-      <item value="Unclosed" />
-      <item value="batch" />
-      <item value="A qualifier value for the specified asynchronous operation(s). &lt;p&gt;May be used to determine the target executor to be used when executing the asynchronous operation(s), matching the qualifier value (or the bean name) of a specific {@link java.util.concurrent.Executor Executor} or {@link org.springframework.core.task.TaskExecutor TaskExecutor} bean definition. &lt;p&gt;When specified on a class-level {@code @Async} annotation, indicates that the given executor should be used for all methods within the class. Method-level use of {@code Asyncvalue} always overrides any value set at the class level. @since 3.1.2" />
-      <item value="Number of milliseconds to delay before the first execution of a" />
-      <item value="Execute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next." />
-      <item value="Execute the annotated method with a fixed period in milliseconds between invocations." />
-      <item value="CONTENT KEYWORD" />
-      <item value="SP UNKNOWN ERROR" />
-      <item value="SIGNATURE BLACKLIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622276381944" />
+    <option name="lastTrimTime" value="1622086630784" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
