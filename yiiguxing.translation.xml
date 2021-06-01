@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select id, tss_id, sms_firm, sms_id, templ_type, mobile, mess_content, send_return_info, send_return_code, send_return_memo, send_status, check_status, final_status, final_status_memo, nick, buyer_nick, mess_count, mess_count_check, retry_count, wait_send_time, update_info, send_time, update_time, create_time from tbl_sms_send_record where send_status=2 or send_status=3 limit ?,?" />
       <item value="Current request is not a multipart request" />
       <item value="Verify" />
       <item value="verify Info DO" />
@@ -50,7 +51,6 @@
       <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied" />
       <item value="String Joiner" />
       <item value="Joiner" />
-      <item value="hold" />
     </histories>
     <option name="languageScores">
       <map>
