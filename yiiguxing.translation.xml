@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="811" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="Please report this message and include the following information to us" />
       <item value="Dependency annotations" />
       <item value="expected at least 1 bean which qualifies as autowire candidate" />
       <item value="Qualifier" />
@@ -53,7 +54,6 @@
       <item value="set Mongodb Data" />
       <item value="update Cache With Trades Sold Get" />
       <item value="缓存" />
-      <item value="Cache" />
     </histories>
     <option name="languageScores">
       <map>
