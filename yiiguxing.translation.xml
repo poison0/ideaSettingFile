@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="指针" />
       <item value="第二" />
       <item value="包" />
       <item value="导入" />
@@ -50,12 +51,11 @@
       <item value="Joiner" />
       <item value="hold" />
       <item value="export" />
-      <item value="String length must be a multiple of four" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="413" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
