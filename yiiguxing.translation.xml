@@ -2,10 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="319" />
     <option name="newTranslationDialogWidth" value="693" />
-    <option name="newTranslationDialogX" value="360" />
-    <option name="newTranslationDialogY" value="321" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogX" value="926" />
+    <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="J Component" />
       <item value="translation" />
       <item value="Translation" />
       <item value="指针" />
@@ -55,12 +55,11 @@
       <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied {@code delimiter}. If no characters are added to the {@code StringJoiner} and methods accessing the value of it are invoked, it will not return a {@code prefix} or {@code suffix} (or properties thereof) in the result, unless {@code setEmptyValue} has first been called." />
       <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied" />
       <item value="String Joiner" />
-      <item value="Joiner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
