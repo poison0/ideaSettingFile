@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="926" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="Unclosed group near index 36" />
       <item value="J Component" />
       <item value="translation" />
       <item value="Translation" />
@@ -54,7 +55,6 @@
       <item value="厂商" />
       <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied {@code delimiter}. If no characters are added to the {@code StringJoiner} and methods accessing the value of it are invoked, it will not return a {@code prefix} or {@code suffix} (or properties thereof) in the result, unless {@code setEmptyValue} has first been called." />
       <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied" />
-      <item value="String Joiner" />
     </histories>
     <option name="languageScores">
       <map>
