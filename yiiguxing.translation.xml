@@ -1,24 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="811" />
-    <option name="newTranslationDialogY" value="287" />
+    <option name="newTranslationDialogHeight" value="319" />
+    <option name="newTranslationDialogWidth" value="693" />
+    <option name="newTranslationDialogX" value="926" />
+    <option name="newTranslationDialogY" value="267" />
     <histories>
-      <item value="Please report this message and include the following information to us" />
-      <item value="Dependency annotations" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate" />
-      <item value="Qualifier" />
-      <item value="flat" />
-      <item value="Invalid signature" />
-      <item value="signature" />
-      <item value="encrypt" />
-      <item value="加密" />
-      <item value="select id, tss_id, sms_firm, sms_id, templ_type, mobile, mess_content, send_return_info, send_return_code, send_return_memo, send_status, check_status, final_status, final_status_memo, nick, buyer_nick, mess_count, mess_count_check, retry_count, wait_send_time, update_info, send_time, update_time, create_time from tbl_sms_send_record where send_status=2 or send_status=3 limit ?,?" />
-      <item value="Current request is not a multipart request" />
-      <item value="Verify" />
-      <item value="verify Info DO" />
-      <item value="tbl Sms Verify DO" />
-      <item value="Boolean method 'isValidDate' is always inverted" />
+      <item value="J Component" />
+      <item value="translation" />
+      <item value="Translation" />
+      <item value="指针" />
+      <item value="第二" />
+      <item value="包" />
+      <item value="导入" />
       <item value="Evaluate" />
       <item value="MOBILE SEND LIMIT" />
       <item value="CONTENT" />
@@ -54,11 +47,19 @@
       <item value="set Mongodb Data" />
       <item value="update Cache With Trades Sold Get" />
       <item value="缓存" />
+      <item value="Cache" />
+      <item value="Enable" />
+      <item value="启用" />
+      <item value="FAIL BIZ TARGET SERVICE ERROR" />
+      <item value="厂商" />
+      <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied {@code delimiter}. If no characters are added to the {@code StringJoiner} and methods accessing the value of it are invoked, it will not return a {@code prefix} or {@code suffix} (or properties thereof) in the result, unless {@code setEmptyValue} has first been called." />
+      <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied" />
+      <item value="String Joiner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
@@ -72,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622527072405" />
+    <option name="lastTrimTime" value="1622556592248" />
   </component>
   <component name="Settings">
     <option name="overrideFont" value="true" />
