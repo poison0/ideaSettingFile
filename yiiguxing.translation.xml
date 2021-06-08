@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="926" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="通知" />
       <item value="The last packet successfully received from the server was 1,379,687 milliseconds ago. The last packet sent successfully to the server was 1,379,688 milliseconds ago" />
       <item value="Server SSL certificate verification failed: certificate issued for a different hostname, issuer is not trusted" />
       <item value="Unable to connect to a repository at URL" />
@@ -54,7 +55,6 @@
       <item value="缓存" />
       <item value="Cache" />
       <item value="Enable" />
-      <item value="启用" />
     </histories>
     <option name="languageScores">
       <map>
