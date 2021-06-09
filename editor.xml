@@ -13,7 +13,7 @@
         <entry key="XML" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
