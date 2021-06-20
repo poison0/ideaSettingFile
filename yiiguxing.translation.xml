@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="926" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="Tired of opening the browser for formatting and validating JSON? Why don't you install JSON Parser and do it inside IDE with offline support? JSON Parser is a lightweight plugin for validating and formatting JSON strings. Install and spread the word :)" />
       <item value="Features" />
       <item value="Unclosed group near index 36" />
       <item value="J Component" />
@@ -54,12 +55,11 @@
       <item value="启用" />
       <item value="FAIL BIZ TARGET SERVICE ERROR" />
       <item value="厂商" />
-      <item value="Constructs a {@code StringJoiner} with no characters in it, with no {@code prefix} or {@code suffix}, and a copy of the supplied {@code delimiter}. If no characters are added to the {@code StringJoiner} and methods accessing the value of it are invoked, it will not return a {@code prefix} or {@code suffix} (or properties thereof) in the result, unless {@code setEmptyValue} has first been called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="4" />
